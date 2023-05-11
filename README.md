@@ -30,6 +30,7 @@ My motivation to make this project was to show a potential employer my deployed 
 MIT License
 
 ## Deployed Link ##
+https://kylekryst.github.io/React-Portfolio/
 
 ## Questions ##
 If any users have any questions regarding this project, then my GitHub username is KyleKryst. A link to my GitHub is provided [here](https://github.com/KyleKryst). One can also reach me by [email](mailto:kryst.kyle@gmail.com).

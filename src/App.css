@@ -1,0 +1,173 @@
+.container {
+    width: 100%;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+.card {
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    word-wrap: break-word;
+    background-clip: border-box;
+    border-radius: 3px;
+}
+
+.card-body {
+    padding: 10px;
+    margin-left: 15px;
+    margin-right: 15px;
+}
+
+.header {
+    padding-top: 10px;
+    padding-left: 40px;
+}
+
+.topnav {
+    background-color: #020204;
+    align-items: center;
+    list-style: none;
+    font-family: 'Roboto Slab', serif;
+}
+
+.topnav a {
+color: rgb(28, 211, 28);
+font-family: 'Roboto Slab', serif;
+}
+
+.topnav-left {
+    float: left;
+}
+
+.topnav-right {
+    float: right;
+}
+
+.topnav a:hover {
+    background-color: rgb(28, 211, 28);
+    color: #020204;
+    list-style: none;
+  }
+
+.navbar__link--active {
+    background-color: rgb(28, 211, 28);
+}
+
+.navbar__link--active a{
+    background-color: #020204;
+}
+
+.button {
+    font-family: 'Roboto Slab', serif;
+}
+
+.wrap {
+display: flex;
+align-items: center;
+justify-content: center;
+}
+
+.simulation-back {
+    background-image: url("assets/images/simulation.jpg");
+    height: 260px;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.profile-image {
+    height: 250px;
+    width: 285px;
+    vertical-align: middle;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5 {
+    font-family: 'Libre Baskerville', serif;
+}
+
+.code {
+    font-family: 'Libre Baskerville', serif;
+}
+
+.grid-container-profile {
+    display: inline-block;
+    grid-template-columns: repeat(3, 1fr);
+}
+
+.grid-item-gallery__item {
+    display: flex;
+    padding: 1em;
+    flex-direction: column;
+    justify-content: space-between;
+    margin: 1.5em;
+    border-radius: 0.5em;
+}
+
+.p {
+    font-family: 'Montserrat', sans-serif;
+}
+
+li {
+    font-family: 'Montserrat', sans-serif;
+}
+
+.footer-info p {
+    font-family: 'Roboto Slab', serif;
+}
+
+.footer-info {
+    font-family: 'Roboto Slab', serif;
+}
+
+@media screen and (max-width: 980px) {
+    .grid-container-profile {
+      display: inline-block;
+      grid-template-columns: repeat(3, 1fr);
+    }
+  
+    .header {
+      padding-top: 10px;
+      padding-left: 15px;
+    }
+  
+    .modal-footer {
+      margin-left: 10px;
+    }
+  }
+  
+  @media screen and (max-width: 768px) {
+    .topnav a {
+      float: none;
+      display: block;
+    }
+  
+    .grid-container-profile {
+      display: inline-block;
+      grid-template-columns: repeat(3, 1fr);
+    }
+  }
+  
+  @media screen and (max-width: 575px) {
+    .avatar {
+      padding-top: 10px;
+      vertical-align: middle;
+      width: 143px;
+      height: 125px;
+    }
+  
+    .abstract-back {
+      background-image: url('assets/images/simulation.jpg');
+      height: 135px;
+      background-repeat: no-repeat;
+      background-size: cover;
+    }
+  
+    .grid-container-profile {
+      display: inline-block;
+      grid-template-columns: repeat(3, 1fr);
+    }
+  }

@@ -10,19 +10,19 @@ My motivation to make this project was to show a potential employer my deployed 
 
 [Screenshots][screenshots]
 
-[screenshots]: https://github.com/KyleKryst/Just-Another-Text-Editor-23/blob/main/README.md#screenshots
+[screenshots]: https://github.com/KyleKryst/React-Portfolio/blob/main/README.md#screenshots
 
 [License][license]
 
-[license]: https://github.com/KyleKryst/Just-Another-Text-Editor-23/blob/main/README.md#license
+[license]: https://github.com/KyleKryst/React-Portfolio/blob/main/README.md#license
 
 [Deployed Link][deployed link]
 
-[deployed link]: https://github.com/KyleKryst/Just-Another-Text-Editor-23/blob/main/README.md#deployed-link
+[deployed link]: https://github.com/KyleKryst/React-Portfolio/blob/main/README.md#deployed-link
 
 [Questions][questions]
 
-[questions]: https://github.com/KyleKryst/Just-Another-Text-Editor-23/blob/main/README.md#questions
+[questions]: https://github.com/KyleKryst/React-Portfolio/blob/main/README.md#questions
 
 ## Screenshots ##
 
